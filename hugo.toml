@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://fancy-kringle-519c0e.netlify.app/'
 languageCode = 'ja'
 title = 'tellur blog'
 theme = 'papermod'
