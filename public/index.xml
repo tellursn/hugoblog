@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tellur blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on tellur blog</description>
+    <generator>Hugo -- 0.147.5</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 23 May 2025 18:12:12 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>skkがvivaldiで使えなかった</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Fri, 23 May 2025 18:12:12 +0900</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Profile</title>
+      <link>http://localhost:1313/profile/</link>
+      <pubDate>Fri, 24 Sep 2021 18:20:02 +0900</pubDate>
+      <guid>http://localhost:1313/profile/</guid>
+      <description>&lt;p&gt;生物系の大学生&lt;/p&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;p&gt;詳細版については&lt;a href=&#34;http://localhost:1313/skills/&#34;&gt;こちら&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OS
+&lt;ul&gt;
+&lt;li&gt;Linux(Ubuntu, Linux mint, EndevourOS, CentOS)/Windows&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Language(下に行くほど習熟度が低いです)
+&lt;ul&gt;
+&lt;li&gt;C++&lt;/li&gt;
+&lt;li&gt;C#&lt;/li&gt;
+&lt;li&gt;R&lt;/li&gt;
+&lt;li&gt;Ruby&lt;/li&gt;
+&lt;li&gt;python&lt;/li&gt;
+&lt;li&gt;Go&lt;/li&gt;
+&lt;li&gt;Rust&lt;/li&gt;
+&lt;li&gt;SQL&lt;/li&gt;
+&lt;li&gt;Julia&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Other
+&lt;ul&gt;
+&lt;li&gt;AWS&lt;/li&gt;
+&lt;li&gt;TeX&lt;/li&gt;
+&lt;li&gt;AtCoder 青(C++)&lt;/li&gt;
+&lt;li&gt;漢検 準一級&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;p&gt;主に生態学の研究&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2023-現在 筑波大学生命環境学群生物学類在学中&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+baseURL = 'https://example.org/'
+languageCode = 'ja'
+title = 'tellur blog'
+theme = 'papermod'
+
+[params]
+  [params.homeInfoParams]
+  Title = "teru tweet"
+  Content = "tech archive"
+
+[[menu.main]]
+identifier = "posts"
+name = "posts"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+identifier = "search"
+name = "search"
+url = "/search/"
+weight = 12
+
+[[menu.main]]
+identifier = "profile"
+name = "profile"
+url = "/profile/"
+weight = 15
+
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "about"
+name = "tellur "
+url = ""
+weight = 30
