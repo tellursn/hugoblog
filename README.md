@@ -1,1 +1,2 @@
 # hugoblog
+# hugoblog git init
