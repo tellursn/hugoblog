@@ -1,11 +1,11 @@
 baseURL = 'https://fancy-kringle-519c0e.netlify.app/'
 languageCode = 'ja'
-title = 'tellur blog'
+title = 'Au Soleil'
 theme = 'papermod'
 
 [params]
   [params.homeInfoParams]
-  Title = "teru tweet"
+  Title = "tellur blog"
   Content = "tech archive"
 
 [[menu.main]]
@@ -33,8 +33,3 @@ name = "tags"
 url = "/tags/"
 weight = 20
 
-[[menu.main]]
-identifier = "about"
-name = "tellur "
-url = ""
-weight = 30
