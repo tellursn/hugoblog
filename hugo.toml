@@ -1,4 +1,4 @@
-baseURL = 'https://fancy-kringle-519c0e.netlify.app/'
+baseURL = 'https://ausoleil.netlify.app/'
 languageCode = 'ja'
 title = 'Au Soleil'
 theme = 'papermod'
@@ -6,7 +6,7 @@ theme = 'papermod'
 [params]
   [params.homeInfoParams]
   Title = "tellur blog"
-  Content = "tech archive"
+  Content = "覚えたこととか"
 
 [[menu.main]]
 identifier = "posts"
