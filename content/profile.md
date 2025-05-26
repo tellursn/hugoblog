@@ -11,7 +11,7 @@ ShowPostNavLinks: false
 
 ## Skills
  - OS
-   - Linux(Ubuntu, Linux mint, EndevourOS)/Windows
+   - Linux(Ubuntu, Linux mint, EndeavourOS)/Windows
  
 ## Education
 
