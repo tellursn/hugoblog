@@ -10,11 +10,11 @@ title = 'skkがvivaldiで使えなかった'
 SKK(Simple Kana to Kanji conversion program)は，日本語入力システムの一つ．日本語を入力する際に，形態素解析をせずに変換を行うことが特徴．かな→漢字の変換の際には，変換したい熟語の語頭でshiftを押す．
 
 ## skkのインストール
-OS：endevourOS
+OS：endeavourOS
 Desktop environment：KDE Plasma
 Kernel：6.14.6-arch1-1
 
-endevourOSはarch系のディストロなので，pacmanでインストールする．インプットメソッドは，Linuxならfcitx5かibus(windowsはCorvusSKK,macはAquaSKKが有名．それぞれ仕様が少しだけ違う).今回はfcitx5-skkをインストールした．
+endeavourOSはarch系のディストリビューションなので，pacmanでインストールする．インプットメソッドは，Linuxならfcitx5かibus(windowsはCorvusSKK,macはAquaSKKが有名．それぞれ仕様が少しだけ違う).今回はfcitx5-skkをインストールした．
 
 ```
 # fcitx5-skkのインストール
