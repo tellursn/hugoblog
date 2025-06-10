@@ -10,8 +10,12 @@ title = '非線形時系列解析入門〜予測編〜'
 時系列が $x_t$ の力学系を観測することで得られるのは，1次元時系列 $y_n$ である．アトラクタの再構成には時間遅れ座標系と呼ばれる座標系への変換がよく用いられる．この変換では観測時系列 $y_t$ が以下のようにして $d$ 次元ベクトルの時系列に変換される．但し，$N$ 次元の多様体が与えられたとする．
 
 $$
-x\in N,\ f:N\rightarrow N,\ g:N \rightarrow \mathbb{R},\ G:N\rightarrow \mathbb{R}^d \\\
-x_{t + 1} = f(x_t),\ s_t = g(x_t) \\\
+x\in N,\ f:N\rightarrow N,\ g:N \rightarrow \mathbb{R},\ G:N\rightarrow \mathbb{R}^d
+$$
+$$
+x_{t + 1} = f(x_t),\ s_t = g(x_t) 
+$$
+$$
 y_t = G(x_t) = (s_t,\ s_{t + \tau},\ \cdots,\ s_{t +(d-1)\tau}) \tag{1}
 $$
 
