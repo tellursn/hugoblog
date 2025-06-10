@@ -1,6 +1,6 @@
 +++
 date = '2025-06-10T23:45:52+09:00'
-draft = true
+draft = false
 title = '非線形時系列解析入門〜予測編〜'
 math = true
 tags = ["時系列分析","カオス"]
