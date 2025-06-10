@@ -2,6 +2,8 @@
 date = '2025-05-23T18:12:12+09:00'
 draft = false
 title = 'skkがvivaldiで使えなかった'
+math = false
+tags = ["IME", "browser"]
 +++
 
 <!--more-->

@@ -4,9 +4,14 @@ title = 'Au Soleil'
 theme = 'papermod'
 
 [params]
+  math = true
   [params.homeInfoParams]
   Title = "tellur blog"
   Content = "覚えたこととか"
+  customCSS = ["css/custom.css"]
+
+[taxonomies]
+  tag = "tags"
 
 [[menu.main]]
 identifier = "posts"
@@ -32,4 +37,9 @@ identifier = "tags"
 name = "tags"
 url = "/tags/"
 weight = 20
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
