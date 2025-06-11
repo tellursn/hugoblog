@@ -3,6 +3,8 @@ languageCode = 'ja'
 title = 'Au Soleil'
 theme = 'papermod'
 
+copyright = "Copyright © 2025 tellur"
+
 [params]
   math = true
   [params.homeInfoParams]
