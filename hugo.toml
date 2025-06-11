@@ -14,7 +14,6 @@ copyright = "Copyright © 2025 tellur"
 
 [taxonomies]
   tag = "tags"
-  archive = "archives"
 
 [[menu.main]]
 identifier = "posts"
