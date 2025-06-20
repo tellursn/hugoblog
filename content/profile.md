@@ -7,7 +7,7 @@ ShowBreadCrumbs: false
 ShowPostNavLinks: false
 ---
 
-大学生
+生物系の大学生．2003年生．
 
 ## Skills
  - OS
@@ -15,5 +15,4 @@ ShowPostNavLinks: false
  
 ## Education
 
- - 2023-現在 筑波大学在学中
-
+ - 2023-現在 筑波大学生命環境学群生物学類 在学中
