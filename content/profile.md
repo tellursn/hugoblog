@@ -14,5 +14,4 @@ ShowPostNavLinks: false
    - Linux(Ubuntu, Linux mint, EndeavourOS)/Windows
  
 ## Education
-
- - 2023-現在 筑波大学生命環境学群生物学類 在学中
+ - 2023-現在 筑波大学生命環境学群生物学類
