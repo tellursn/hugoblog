@@ -7,11 +7,11 @@ ShowBreadCrumbs: false
 ShowPostNavLinks: false
 ---
 
-生物系の大学生．2003年生．
+学部生です．2003年生．
 
 ## Skills
  - OS
    - Linux(Ubuntu, Linux mint, EndeavourOS)/Windows
  
 ## Education
- - 2023-現在 筑波大学生命環境学群生物学類
+ - 2023-現在 筑波大学生命環境学群生物学類在学
