@@ -1,8 +1,8 @@
 +++
 date = '2025-06-16T18:54:23+09:00'
-draft = true
+draft = false
 title = '区点([MM]KKTT)は何者？'
-math = true
+math = false
 tags = ["文字コード","skk"]
 +++
 
