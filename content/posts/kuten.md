@@ -1,5 +1,5 @@
 +++
-date = '2025-06-16T18:54:23+09:00'
+date = '2025-08-16T18:54:23+09:00'
 draft = false
 title = '区点([MM]KKTT)は何者？'
 math = false
