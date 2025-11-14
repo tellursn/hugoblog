@@ -9,11 +9,14 @@ copyright = "Copyright © 2025 tellur"
   math = true
  # [params.homeInfoParams]
  # Title = "tellur blog"
-#Content = "覚えたこととか"
+ # Content = "覚えたこととか"
  # customCSS = ["css/custom.css"]
   [params.profilemode]
   enabled = true # needs to be explicitly set
-
+  Title = "tellur page"
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/tellursn"
 
 [taxonomies]
   tag = "tags"
