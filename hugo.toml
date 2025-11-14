@@ -7,10 +7,13 @@ copyright = "Copyright © 2025 tellur"
 
 [params]
   math = true
-  [params.homeInfoParams]
-  Title = "tellur blog"
-  Content = "覚えたこととか"
-  customCSS = ["css/custom.css"]
+ # [params.homeInfoParams]
+ # Title = "tellur blog"
+#Content = "覚えたこととか"
+ # customCSS = ["css/custom.css"]
+  [params.profilemode]
+  enabled = true # needs to be explicitly set
+
 
 [taxonomies]
   tag = "tags"
@@ -45,5 +48,3 @@ weight = 20
     [markup.goldmark.renderer]
       unsafe = true
 
-[profileMode]
-  enabled = true # needs to be explicitly set
