@@ -45,3 +45,5 @@ weight = 20
     [markup.goldmark.renderer]
       unsafe = true
 
+[profileMode]
+  enabled = true # needs to be explicitly set
