@@ -1,0 +1,79 @@
+{{- if .IsHome }}
+<script src="https://cdn.jsdelivr.net/npm/tsparticles@2/tsparticles.bundle.min.js"></script>
+
+<div id="tsparticles" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; pointer-events: none;"></div>
+
+<script>
+  // ページの読み込み完了を待ってから実行
+  document.addEventListener('DOMContentLoaded', function() {
+    tsParticles.load("tsparticles", {
+      fullScreen: { enable: false }, // 上記div内で描画するためfalse設定
+      particles: {
+        number: {
+          value: 30, // ノードの数（増やすと重くなるので注意）
+          density: {
+            enable: true,
+            area: 800
+          }
+        },
+        color: {
+          value: "#777777" // ノードの色（ダークモードに合わせて白）
+        },
+        shape: {
+          type: "circle"
+        },
+        opacity: {
+          value: 0.8, // 少し薄くして背景に馴染ませる
+          random: true
+        },
+        size: {
+          value: 3,
+          random: true
+        },
+        links: {
+          enable: true,
+          distance: 150, // ノードをつなぐ距離
+          color: "#777777",
+          opacity: 0.8, // 線の透明度
+          width: 1
+        },
+        move: {
+          enable: true,
+          speed: 1, // 動くスピード（ゆっくりめ）
+          direction: "none",
+          random: false,
+          straight: false,
+          outModes: {
+            default: "out"
+          }
+        }
+      },
+      interactivity: {
+        events: {
+          onHover: {
+            enable: true,
+            mode: "grab" // マウスを近づけると線がつながる
+          },
+          onClick: {
+            enable: true,
+            mode: "push"
+          },
+          resize: true
+        },
+        modes: {
+          grab: {
+            distance: 140,
+            links: {
+              opacity: 0.8
+            }
+          }
+        }
+      },
+      retina_detect: true,
+      background: {
+        color: "transparent" // 背景色は透明にして、サイトのテーマ色を活かす
+      }
+    });
+  });
+</script>
+{{- end }}
