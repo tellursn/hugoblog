@@ -3,7 +3,10 @@ languageCode = 'ja'
 title = 'Au Soleil'
 theme = 'papermod'
 
-copyright = "Copyright © 2026 tellur"
+# copyright = "Copyright © 2026 tellur"
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
 
 [params]
   math = true
@@ -17,6 +20,11 @@ copyright = "Copyright © 2026 tellur"
   [[params.socialIcons]]
     name = "github"
     url = "https://github.com/tellursn"
+  # 検索
+  [params.searchConfig]
+        limit = 20
+        threshold = 0.3
+        strict = false
 
 [taxonomies]
   tag = "tags"
@@ -50,4 +58,3 @@ weight = 20
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
