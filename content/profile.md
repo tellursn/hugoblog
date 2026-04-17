@@ -7,11 +7,12 @@ ShowBreadCrumbs: false
 ShowPostNavLinks: false
 ---
 
-学部生です．2003年生．
+2003年生．
 
 ## Skills
  - OS
    - Linux(Ubuntu, Linux mint, EndeavourOS)/Windows
- 
+
+
 ## Education
  - 2023-現在 筑波大学生命環境学群生物学類在学中
