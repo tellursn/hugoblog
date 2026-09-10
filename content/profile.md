@@ -12,7 +12,9 @@ ShowPostNavLinks: false
 ## Skills
  - OS
    - Linux(Ubuntu, Linux mint, EndeavourOS)/Windows
+ - 学芸員資格
 
 
 ## Education
  - 2023-現在 筑波大学生命環境学群生物学類在学中
+ - 2027- 筑波大学大学院生物学学位P博士前期課程進学予定
